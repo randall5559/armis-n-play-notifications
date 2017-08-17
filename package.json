@@ -1,4 +1,11 @@
 {
+  "name": "armis-n-play-notifications",
+  "version": "0.0.1",
+  "main":"index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.15.4"
   }
